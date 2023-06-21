@@ -1,0 +1,5 @@
+name = "vacasa"
+main = "src/main.js"
+compatibility_date = "2023-05-18"
+workers_dev = true
+route = { pattern = "vacasa.thernandez.dev/*", zone_name = "thernandez.dev" }

@@ -1,0 +1,9 @@
+{
+  "extends": ["eslint-config-thernandez"],
+  "rules": {
+    "no-plusplus": 0,
+    "unicorn/no-array-reduce": 0,
+    "guard-for-in": 0,
+    "max-depth": 0,
+  }
+}
